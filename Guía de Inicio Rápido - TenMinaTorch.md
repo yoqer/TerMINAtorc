@@ -310,7 +310,7 @@ Reduce el tamaño del modelo en `config.json`:
 Usa backend acelerado:
 
 ```python
-from minitorch_lite import set_backend
+from TenMINATorch import set_backend
 set_backend('numba')  # Requiere: pip install numba
 ```
 
