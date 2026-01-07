@@ -1,6 +1,6 @@
 # TenMINAtorc
-Basada específicamente en la Librería TenMINATorch, TenMinaTorc es un Framework Generalista de uso de la Libreria TenMINATorch, en Fase Epsilon. 
+Basada específicamente para la Librería TenMINATorch, TenMinaTorc es un Framework Generalista de uso en entrenamiento de la Libreria TenMINATorch, de Fase Epsilon. 
 
-http://github.com/TenMinaTorch
+http://github.com/yoqer/TenMinaTorch
 
 
