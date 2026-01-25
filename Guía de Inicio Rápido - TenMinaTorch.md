@@ -30,7 +30,7 @@ python examples/train_complete_model.py --epochs 10 --generate
 
 ```
 ======================================================================
-MiniTorch Framework - Pipeline de Entrenamiento Completo
+TenMiniTorch Framework - Pipeline de Entrenamiento Completo
 ======================================================================
 
 [1/5] Inicializando Transformer RLM...
